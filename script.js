@@ -1,4 +1,4 @@
-const API_URL = "http://127.0.0.1:2200/predict";
+const API_URL = "https://healthai-4-k0tk.onrender.com/";
 
 const form = document.getElementById("predict-form");
 const submitBtn = document.getElementById("submit-btn");
